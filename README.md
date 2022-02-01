@@ -66,4 +66,6 @@ For the sake of this project, Im working with Dark Souls because it has no anti-
 - CE can be used to manipulate the game, so viewers can **force events to occur** on the streamers session.
 
 - Commenting can be expanded to allow for markdown so that users can express more in the comments.
+- User Display Pictures.
+- 
 
